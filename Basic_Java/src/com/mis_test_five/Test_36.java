@@ -3,7 +3,7 @@ package com.mis_test_five;
 //Class containing a method that throws a checked exception
 class ReadTheFile {
 
- // ✅ FIX 1: Declare checked exception in method signature
+ //  FIX 1: Declare checked exception in method signature
  // 'IOException' is a checked exception, so we must declare it (or its superclass like Exception)
  static void print() throws Exception {
      throw new IOException(); // throwing a checked exception

@@ -25,3 +25,5 @@ public class Test_02 {
         obj.print();      // Prints: X3
     }
 }
+
+
